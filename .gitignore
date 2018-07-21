@@ -16,8 +16,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-config.codekit
-config.codekit3
+.config.codekit
+.config.codekit3
 .codekit-cache
 
 /assets/02-sass/.sass-cache/
