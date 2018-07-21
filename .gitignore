@@ -1,0 +1,29 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+config.codekit
+config.codekit3
+.codekit-cache
+
+/assets/02-sass/.sass-cache/
+/assets/02-sass/
+/assets/02-sass/*.css.map
+/assets/02-sass/*.sass.map
+/assets/02-sass/*.scss.map
+
+/assets/04-javascript/scripts-home.js
