@@ -16,17 +16,17 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/assets\/01-css\/xtyle-home.css": {
+	"\/assets\/01-css\/style-home.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/01-css\/xtyle-home-min.css",
+		"oAP": "\/assets\/01-css\/style-home-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/assets\/02-sass\/xtyle-home.scss": {
+	"\/assets\/02-sass\/style-home.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -34,7 +34,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/01-css\/xtyle-home.css",
+		"oAP": "\/assets\/01-css\/style-home.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
