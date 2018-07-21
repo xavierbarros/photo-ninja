@@ -16,18 +16,14 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+config.codekit
+config.codekit3
+.codekit-cache
 
 /assets/02-sass/.sass-cache/
 /assets/02-sass/
 /assets/02-sass/*.css.map
 /assets/02-sass/*.sass.map
 /assets/02-sass/*.scss.map
-
-config.codekit
-config.codekit3
-/min
-
-*/codekit-config.json
-.codekit-cache
 
 /assets/04-javascript/scripts-home.js
